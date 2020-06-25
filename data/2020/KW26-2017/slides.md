@@ -98,7 +98,7 @@ Tragt in 3 Gruppen zusammen, was für folgende CMS-User entscheidende Punkte sin
 * Modules
 --s--
 # Wordpress
-* …
+* test
 --s--
 # Typo3
 * Bulk-Edit
