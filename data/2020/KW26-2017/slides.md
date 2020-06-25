@@ -90,7 +90,13 @@ Tragt in 3 Gruppen zusammen, was für folgende CMS-User entscheidende Punkte sin
 ## Demos
 --s--
 # Craft
-* …
+Stärken
+  * Mehrsprachigkeit
+  * Plugins und Module
+  * Kommerzielles Produkt
+Schwächen
+  * Gewöhnugsbedürftige Terminologie
+  * Kommerzielles Produkt
 --s--
 # Drupal
 * Enterprise
@@ -98,7 +104,8 @@ Tragt in 3 Gruppen zusammen, was für folgende CMS-User entscheidende Punkte sin
 * Modules
 --s--
 # Wordpress
-* …
+Stärken
+  * One Click setup auf vielen Hostern
 --s--
 # Typo3
 * Bulk-Edit
